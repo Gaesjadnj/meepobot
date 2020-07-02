@@ -1867,4 +1867,4 @@ for cog in os.listdir('cogs'):
       raise 
 
 keep_alive()
-bot.run("NjgwNjc0MDc2OTA1MTc3MTE5.Xv2wng.8mK1Ob4R-fq_2gDu9rUKYJf-wyY")
+bot.run("NjgwNjc0MDc2OTA1MTc3MTE5.Xv2xDw.fvNCuIqA-F2gu8rNbJCktf4ROTM")
